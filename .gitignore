@@ -1,0 +1,11 @@
+# Compiled binaries
+loop
+nested
+nestedloop
+roman
+root
+roottwo
+two
+*.o
+*.out
+a.out
